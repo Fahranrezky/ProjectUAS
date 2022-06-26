@@ -174,7 +174,7 @@
                 <p><b><i class="icon-book"></i> Tujuan </b><br><br>
     
                 <ol>
-                    <li>Menghasilkan lulusan yang memiliki kemampuan dalam mengimplementasikan ilmu pengetahuan dan teknologi informasi yang mendukung ekonomi kreatif</li>
+                    <li>Menghasilkan lulusa yang memiliki kemampuan dalam mengimplementasikan ilmu pengetahuan dan teknologi informasi yang mendukung ekonomi kreatif</li>
                         <li>Menghasilkan lulusan yang berkompeten, kreatif, inovatif, kompetitif dan berakhlak mulia</li>
                         <li>Menghasilkan penelitian dan karya Ilmiah di bidang teknologi informasi yang diakui pada tingkat nasional dan internasional.</li>
                    </ol>
