@@ -136,11 +136,11 @@
                         </tr>
                         <tr>
                             <td> 
-                               <b> 1. Fahran Rezky Ananda<br>2. Razki Alfattah<br>3. Aji Basrah<br>4. Ridwan Saefuloh<br></b>
+                               <b> 1. Fahran Rezky Ananda<br>2. Razki Alfattah<br>3. Aji Basrah<br>4. Ridwan Saefuloh<br>5. ihsan Theo Saputra<br></b>
 
                             </td>
                             <td>
-                                <b>( 17191124 )<br>( 17191122 )<br>( 17191147 )<br>( 17191070 )<br></b>
+                                <b>( 17191124 )<br>( 17191122 )<br>( 17191147 )<br>( 17191070 )<br>( 17191139 )<br></b>
                             
                             </td>
                         </tr>
@@ -149,7 +149,8 @@
                         <b>Instagram : @Razkialfattah<br>  
                         Instagram : @ajibasrahhh<br>
                         Instagram : @Fahranrezky<br>
-                        Instagram : @ridwan.saefuloh</b>
+                        Instagram : @ridwan.saefuloh<br>
+                        Instagram : @itheos11</b>
                 </div>
             <div class="span3">
             <div class="one">   
@@ -174,7 +175,7 @@
                 <p><b><i class="icon-book"></i> Tujuan </b><br><br>
     
                 <ol>
-                    <li>Menghasilkan lulusa yang memiliki kemampuan dalam mengimplementasikan ilmu pengetahuan dan teknologi informasi yang mendukung ekonomi kreatif</li>
+                    <li>Menghasilkan lulusan yang memiliki kemampuan dalam mengimplementasikan ilmu pengetahuan dan teknologi informasi yang mendukung ekonomi kreatif</li>
                         <li>Menghasilkan lulusan yang berkompeten, kreatif, inovatif, kompetitif dan berakhlak mulia</li>
                         <li>Menghasilkan penelitian dan karya Ilmiah di bidang teknologi informasi yang diakui pada tingkat nasional dan internasional.</li>
                    </ol>
